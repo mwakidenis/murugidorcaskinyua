@@ -1,5 +1,6 @@
 <div align="center">
-
+Hi, i'm Dorcas<br>
+  Visit my [**portfolio](https://dorcas-m.pages.dev/)
   <h2>
     📊 Profile Stats
     <img height="40" alt="Murugi Dorcas"
