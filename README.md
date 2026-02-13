@@ -13,7 +13,7 @@
     </path>
   </svg>
 
-  <h1>Hi, I'm Dorcas 👋</h1>
+  <h1>I'm Dorcas 👋</h1>
   <p>🚀 Cybersecurity Enthusiast | 🌐 Web Developer | 🎨 UI Lover</p>
   <p>Visit my <a href="https://dorcas-m.pages.dev/" target="_blank"><b>Portfolio</b></a></p>
   <hr width="60%">
