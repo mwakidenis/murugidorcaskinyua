@@ -1,11 +1,24 @@
 <div align="center">
-Hi, i'm Dorcas<br>
-  Visit my [**portfolio](https://dorcas-m.pages.dev/)
-  <h2>
-    📊 Profile Stats
-    <img height="40" alt="Murugi Dorcas"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
-  </h2>
+
+  <!-- Animated Wave Header -->
+  <svg width="100%" height="120" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+    <path fill="#4F46E5" fill-opacity="0.4">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="
+        M0,160L60,170C120,180,240,200,360,202.7C480,205,600,192,720,176C840,160,960,140,1080,149.3C1200,160,1320,200,1380,218.7L1440,240L1440,0L0,0Z;
+        M0,192L60,176C120,160,240,128,360,122.7C480,117,600,139,720,165.3C840,192,960,224,1080,213.3C1200,203,1320,149,1380,122.7L1440,96L1440,0L0,0Z;
+        M0,160L60,170C120,180,240,200,360,202.7C480,205,600,192,720,176C840,160,960,140,1080,149.3C1200,160,1320,200,1380,218.7L1440,240L1440,0L0,0Z">
+      </animate>
+    </path>
+  </svg>
+
+  <h1>Hi, I'm Dorcas 👋</h1>
+  <p>🚀 Cybersecurity Enthusiast | 🌐 Web Developer | 🎨 UI Lover</p>
+  <p>Visit my <a href="https://dorcas-m.pages.dev/" target="_blank"><b>Portfolio</b></a></p>
+  <hr width="60%">
+  <h2>📊 Profile Stats</h2>
+
+  <img height="40" alt="Murugi Dorcas" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 
   <table>
     <tr>
@@ -15,18 +28,10 @@ Hi, i'm Dorcas<br>
       <td><b>✅ Awesome</b></td>
     </tr>
     <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=murugidorcaskinyua&style=flat-square" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/followers/murugidorcaskinyua?style=social" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/stars/murugidorcaskinyua?style=social" />
-      </td>
-      <td>
-        <img src="https://awesome.re/badge.svg" />
-      </td>
+      <td><img src="https://komarev.com/ghpvc/?username=murugidorcaskinyua&style=flat-square" /></td>
+      <td><img src="https://img.shields.io/github/followers/murugidorcaskinyua?style=social" /></td>
+      <td><img src="https://img.shields.io/github/stars/murugidorcaskinyua?style=social" /></td>
+      <td><img src="https://awesome.re/badge.svg" /></td>
     </tr>
   </table>
 
@@ -45,11 +50,8 @@ Hi, i'm Dorcas<br>
 
 <div align="center">
 
-  <h2>
-    🖥️ Github Activity
-    <img height="40" alt="Murugi Dorcas"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
-  </h2>
+  <h2>🖥️ Github Activity</h2>
+  <img height="40" alt="Murugi Dorcas" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 
   <a href="https://git.io/typing-svg">
     <img
@@ -59,34 +61,23 @@ Hi, i'm Dorcas<br>
 
   <br/><br/>
 
-  <img
-    src="https://github-trophies.vercel.app/?username=murugidorcaskinyua&theme=discord&no-frame=true&no-bg=true&margin-w=4"
-  />
+  <img src="https://github-trophies.vercel.app/?username=murugidorcaskinyua&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
 
   <br/><br/>
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murugidorcaskinyua&theme=radical"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murugidorcaskinyua&theme=radical" />
 
   <br/><br/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=murugidorcaskinyua&show_icons=true&count_private=true&theme=radical&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=murugidorcaskinyua&show_icons=true&count_private=true&theme=radical&hide_border=true" />
 
   <br/><br/>
 
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=murugidorcaskinyua&theme=radical&hide_border=false"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=murugidorcaskinyua&theme=radical&hide_border=false" />
 
   <br/><br/>
 
-  <img
-    src="https://ghchart.rshah.org/murugidorcaskinyua"
-    alt="GitHub Contribution Chart"
-  />
+  <img src="https://ghchart.rshah.org/murugidorcaskinyua" alt="GitHub Contribution Chart" />
 
   <br/><br/>
 
@@ -101,13 +92,10 @@ Hi, i'm Dorcas<br>
 
 <div align="center">
 
-  <h2>
-    🐾 Git Animals
-    <img height="40" alt="Murugi Dorcas"
-      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-  </h2>
+  <h2>🐾 Git Animals</h2>
+  <img height="40" alt="Murugi Dorcas" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" />
 
-  <img src="https://render.gitanimals.org/farms/murugidorcaskinyua" width="500"/>
+  <img src="https://render.gitanimals.org/farms/murugidorcaskinyua" width="500" />
 
 </div>
 
@@ -118,18 +106,15 @@ Hi, i'm Dorcas<br>
 <div align="center">
 
   <a href="https://github.com/murugidorcaskinyua">
-    <img width="40" height="40" alt="GitHub"
-      src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
+    <img width="40" height="40" alt="GitHub" src="https://github.com/user-attachments/assets/b5df5c33-d971-4fd1-b0d7-36a56ec78eed" />
   </a>
 
   <a href="https://gitlab.com/murugidorcaskinyua">
-    <img width="40" height="40" alt="GitLab"
-      src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
+    <img width="40" height="40" alt="GitLab" src="https://github.com/user-attachments/assets/412140b6-9806-428c-bab4-25ab6b34897e" />
   </a>
 
   <a href="https://bitbucket.org/murugidorcaskinyua/workspace/overview/">
-    <img width="40" height="40" alt="Bitbucket"
-      src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
+    <img width="40" height="40" alt="Bitbucket" src="https://github.com/user-attachments/assets/7b63823d-7042-42cc-a6bb-e1ae0f3a19de" />
   </a>
 
   <p>My progress can be tracked from <b>GitRoll</b></p>
@@ -138,4 +123,5 @@ Hi, i'm Dorcas<br>
 
 ---
 
+<!-- Footer Waving Capsule -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
