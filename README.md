@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,FFB6C1&height=120&section=header&text=Hi%2C%20I'm%20Dorcas!&fontSize=24&fontColor=fff&animation=twinkling" alt="Waving Pink Header"/>
 
   <!-- Animated Wave Header -->
   <svg width="100%" height="120" viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
